@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 9300.16.0315.0125                                -->
+<mapsource inline='true' source-platform='win' version='9.3' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <connection class='OpenStreetMap' max-scale-level='18.0' max-stretch='1.2' min-shrink='0.667' port='8080' server='http://xdworld.vworld.kr' tileset='US\normal' url-format='/2d/Base/201512/{Z}/{X}/{Y}.png' />
+  <languages />
+  <layers>
+    <layer display-name='vworld 2dBase' name='Base' request-string='/' show-ui='false' type='features' />
+  </layers>
+  <properties />
+  <map-styles />
+  <mapsource-defaults version='9.3'>
+    <style />
+  </mapsource-defaults>
+  <map-attribution copyright-string='© OpenStreetMap 기여자' copyright-url='http://www.openstreetmap.org/copyright' short-copyright-string='' />
+</mapsource>
